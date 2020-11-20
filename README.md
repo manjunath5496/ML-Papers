@@ -219,7 +219,7 @@
 * [Initializing Bayesian Hyperparameter Optimization via Meta-Learning, 2015](https://github.com/manjunath5496/ML-Papers/blob/main/Initializing%20Bayesian%20Hyperparameter%20Optimization%20via%20Meta-Learning%20.pdf)
 * [Auto-Sklearn 2.0- The Next Generation, 2020](https://github.com/manjunath5496/ML-Papers/blob/main/Auto-Sklearn%202.0-%20The%20Next%20Generation.pdf)
 * [Optuna- A Next-generation Hyperparameter Optimization Framework, 2019](https://github.com/manjunath5496/ML-Papers/blob/main/Optuna-%20A%20Next-generation%20Hyperparameter%20Optimization%20Framework.pdf)
-* [MLOps: Continuous delivery and automation pipelines in machine learning, 2020](https://github.com/manjunath5496/ML-Papers/blob/main/MLOps:%20Continuous%20delivery%20and%20automation%20pipelines%20in%20machine%20learning.pdf)
+* [MLOps: Continuous delivery and automation pipelines in machine learning, 2020](https://github.com/manjunath5496/ML-Papers/blob/main/MLOps_%20Continuous%20delivery%20and%20automation%20pipelines%20in%20machine%20learning.pdf)
 * [COLD- Towards the Next Generation of Pre-Ranking System, 2020](https://github.com/manjunath5496/ML-Papers/blob/main/COLD-%20Towards%20the%20Next%20Generation%20of%20Pre-Ranking%20System.pdf)
 * [Learning to Create Better Ads- Generation and Ranking Approaches for Ad Creative Refinement, 2020](https://github.com/manjunath5496/ML-Papers/blob/main/Learning%20to%20Create%20Better%20Ads-%20Generation%20and%20Ranking%20Approaches%20for%20Ad%20Creative%20Refinement.pdf)
 
