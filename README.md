@@ -163,7 +163,7 @@
 
 
 
-* [Do Deep Nets Really Need to be Deep?, 2014](https://github.com/manjunath5496/ML-Papers/blob/main/Do%20Deep%20Nets%20Really%20Need%20to%20be%20Deep%3F.pdf)
+* [Do Deep Nets Really Need to be Deep?, 2014](https://github.com/manjunath5496/ML-Papers/blob/main/Do%20Deep%20Nets%20Really%20Need%20to%20be%20Deep_.pdf)
 * [Distilling the Knowledge in a Neural Network, 2015](https://github.com/manjunath5496/ML-Papers/blob/main/Distilling%20the%20Knowledge%20in%20a%20Neural%20Network.pdf)
 * [Learning both Weights and Connections for Efficient Neural Networks, 2015](https://github.com/manjunath5496/ML-Papers/blob/main/Learning%20both%20Weights%20and%20Connections%20for%20Efficient%20Neural%20Networks.pdf)
 * [Deep Compression, 2016](https://github.com/manjunath5496/ML-Papers/blob/main/Deep%20Compression.pdf)
@@ -189,7 +189,7 @@
 
 
 * [Survey of Nearest Neighbor Techniques, 2010](https://github.com/manjunath5496/ML-Papers/blob/main/Survey%20of%20Nearest%20Neighbor%20Techniques.pdf)
-* [Hashing for Similarity Search, 2014](https://github.com/manjunath5496/ML-Papers/blob/main/Hashing%20for%20Similarity%20Search:%20A%20Survey.pdf)
+* [Hashing for Similarity Search, 2014](https://github.com/manjunath5496/ML-Papers/blob/main/Hashing%20for%20Similarity%20Search_%20A%20Survey.pdf)
 * [Approximate Nearest Neighbor Search on High Dimensional Data, 2016](https://github.com/manjunath5496/ML-Papers/blob/main/Approximate%20Nearest%20Neighbor%20Search%20on%20High%20Dimensional%20Data.pdf)
 
 
