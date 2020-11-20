@@ -157,9 +157,9 @@
 
 
   
-* [BPR- Bayesian Personalized Ranking from Implicit Feedback, 2009](https://github.com/manjunath5496/ML-Papers/blob/main/Ranking/BPR-%20Bayesian%20Personalized%20Ranking%20from%20Implicit%20Feedback.pdf)
-* [WSABIE- Scaling Up To Large Vocabulary Image Annotation, 2011](https://github.com/manjunath5496/ML-Papers/blob/main/Ranking/WSABIE-%20Scaling%20Up%20To%20Large%20Vocabulary%20Image%20Annotation%20.pdf)
-* [Personalization of Web-search Using Short-term Browsing Context, 2013](https://github.com/manjunath5496/ML-Papers/blob/main/Ranking/Personalization%20of%20Web-search%20Using%20Short-term%20Browsing%20Context.pdf)
+* [BPR- Bayesian Personalized Ranking from Implicit Feedback, 2009](https://github.com/manjunath5496/ML-Papers/blob/main/BPR-%20Bayesian%20Personalized%20Ranking%20from%20Implicit%20Feedback.pdf)
+* [WSABIE- Scaling Up To Large Vocabulary Image Annotation, 2011](https://github.com/manjunath5496/ML-Papers/blob/main/WSABIE-%20Scaling%20Up%20To%20Large%20Vocabulary%20Image%20Annotation%20.pdf)
+* [Personalization of Web-search Using Short-term Browsing Context, 2013](https://github.com/manjunath5496/ML-Papers/blob/main/Personalization%20of%20Web-search%20Using%20Short-term%20Browsing%20Context.pdf)
 
 
 
