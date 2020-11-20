@@ -163,6 +163,66 @@
 
 
 
+* [Do Deep Nets Really Need to be Deep?, 2014](https://github.com/manjunath5496/ML-Papers/blob/main/Do%20Deep%20Nets%20Really%20Need%20to%20be%20Deep%3F.pdf)
+* [Distilling the Knowledge in a Neural Network, 2015](https://github.com/manjunath5496/ML-Papers/blob/main/Distilling%20the%20Knowledge%20in%20a%20Neural%20Network.pdf)
+* [Learning both Weights and Connections for Efficient Neural Networks, 2015](https://github.com/manjunath5496/ML-Papers/blob/main/Learning%20both%20Weights%20and%20Connections%20for%20Efficient%20Neural%20Networks.pdf)
+* [Deep Compression, 2016](https://github.com/manjunath5496/ML-Papers/blob/main/Deep%20Compression.pdf)
+* [A Survey of Model Compression and Acceleration for Deep Neural Networks, 2019](https://github.com/manjunath5496/ML-Papers/blob/main/A%20Survey%20of%20Model%20Compression%20and%20Acceleration%20for%20Deep%20Neural%20Networks.pdf)
+* [The Lottery Ticket Hypothesis, 2019](https://github.com/manjunath5496/ML-Papers/blob/main/The%20Lottery%20Ticket%20Hypothesis.pdf)
+
+
+
+
+* [Approximate nearest neighbor algorithm based on navigable, 2014](https://github.com/manjunath5496/ML-Papers/blob/main/Approximate%20nearest%20neighbor%20algorithm%20based%20on%20navigable%20(Information%20Systems).pdf)
+* [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://github.com/manjunath5496/ML-Papers/blob/main/Efficient%20and%20robust%20approximate%20nearest%20neighbor%20search%20using%20Hierarchical%20Navigable%20Small%20World%20graphs.pdf)
+
+
+
+* [Mining Massive Datasets - Chapter 3](https://github.com/manjunath5496/ML-Papers/blob/main/Mining%20Massive%20Datasets%20-%20Chapter%203.pdf)
+* [Deep Hashing for Compact Binary Codes Learning, 2015](https://github.com/manjunath5496/ML-Papers/blob/main/Deep%20Hashing%20for%20Compact%20Binary%20Codes%20Learning.pdf)
+* [Deep Supervised Hashing for Fast Image Retrieval, 2016](https://github.com/manjunath5496/ML-Papers/blob/main/Deep%20Supervised%20Hashing%20for%20Fast%20Image%20Retrieval%20.pdf)
+  
+
+  
+* [Annoy](https://github.com/manjunath5496/ML-Papers/blob/main/Annoy.pdf)
+
+
+
+* [Survey of Nearest Neighbor Techniques, 2010](https://github.com/manjunath5496/ML-Papers/blob/main/Survey%20of%20Nearest%20Neighbor%20Techniques.pdf)
+* [Hashing for Similarity Search, 2014](https://github.com/manjunath5496/ML-Papers/blob/main/Hashing%20for%20Similarity%20Search:%20A%20Survey.pdf)
+* [Approximate Nearest Neighbor Search on High Dimensional Data, 2016](https://github.com/manjunath5496/ML-Papers/blob/main/Approximate%20Nearest%20Neighbor%20Search%20on%20High%20Dimensional%20Data.pdf)
+
+
+  
+* [A Survey on Transfer Learning](https://github.com/manjunath5496/ML-Papers/blob/main/A%20Survey%20on%20Transfer%20Learning.pdf)
+* [Deep Metric Learning, 2019](https://github.com/manjunath5496/ML-Papers/blob/main/Deep%20Metric%20Learning-%20A%20Survey.pdf)
+* [Generalizing from a Few Examples- A Survey on Few-Shot Learning, 2020](https://github.com/manjunath5496/ML-Papers/blob/main/Generalizing%20from%20a%20Few%20Examples-%20A%20Survey%20on%20Few-Shot%20Learning.pdf)
+* [Learning From Positive and Unlabeled Data- A Survey, 2020](https://github.com/manjunath5496/ML-Papers/blob/main/Learning%20From%20Positive%20and%20Unlabeled%20Data-%20A%20Survey.pdf)
+* [A Review of Keyphrase Extraction, 2019](https://github.com/manjunath5496/ML-Papers/blob/main/A%20Review%20of%20Keyphrase%20Extraction.pdf)
+
+
+  
+* [AutoCross- Automatic Feature Crossing for Tabular Data in Real-World Applications](https://github.com/manjunath5496/ML-Papers/blob/main/AutoCross-%20Automatic%20Feature%20Crossing%20for%20Tabular%20Data%20in%20Real-World%20Applications%202.pdf)
+* [Saliency Detection A Spectral Residual Approach](https://github.com/manjunath5496/ML-Papers/blob/main/Saliency%20Detection%20A%20Spectral%20Residual%20Approach.pdf)
+* [Time-Series Anomaly Detection Service at Microsoft](https://github.com/manjunath5496/ML-Papers/blob/main/Time-Series%20Anomaly%20Detection%20Service%20at%20Microsoft.pdf)
+* [Attention Is All You Need, 2017](https://github.com/manjunath5496/ML-Papers/blob/main/Attention%20Is%20All%20You%20Need.pdf)
+* [MonoForest framework for tree ensemble analysis, 2019](https://github.com/manjunath5496/ML-Papers/blob/main/MonoForest%20framework%20for%20tree%20ensemble%20analysis.pdf)
+* [Intent-Based Browse Activity Segmentation, 2013](https://github.com/manjunath5496/ML-Papers/blob/main/Intent-Based%20Browse%20Activity%20Segmentation.pdf)
+* [Robust De-anonymization of Large Sparse Datasets, 2008](https://github.com/manjunath5496/ML-Papers/blob/main/Robust%20De-anonymization%20of%20Large%20Sparse%20Datasets.pdf)
+* [Siamese Neural Networks for One-shot Image Recognition, 2015](https://github.com/manjunath5496/ML-Papers/blob/main/Siamese%20Neural%20Networks%20for%20One-shot%20Image%20Recognition.pdf)
+* [Deep Metric Learning Using Triplet Network, 2015](https://github.com/manjunath5496/ML-Papers/blob/main/DEEP%20METRIC%20LEARNING%20USING%20TRIPLET%20NETWORK.pdf)
+* [Ten Simple Rules for Reproducible Research in Jupyter Notebooks, 2018](https://github.com/manjunath5496/ML-Papers/blob/main/Ten%20Simple%20Rules%20for%20Reproducible%20Research%20in%20Jupyter%20Notebooks.pdf)
+* [Finding Users Who Act Alike- Transfer Learning for Expanding Advertiser Audiences, 2019](https://github.com/manjunath5496/ML-Papers/blob/main/Finding%20Users%20Who%20Act%20Alike-%20Transfer%20Learning%20for%20Expanding%20Advertiser%20Audiences.pdf)
+* [Applying Deep Learning To Airbnb Search, 2018](https://github.com/manjunath5496/ML-Papers/blob/main/Applying%20Deep%20Learning%20To%20Airbnb%20Search%20.pdf)
+* [Improving Deep Learning For Airbnb Search, 2020](https://github.com/manjunath5496/ML-Papers/blob/main/Improving%20Deep%20Learning%20For%20Airbnb%20Search%20.pdf)
+* [Improving Recommendation Quality in Google Drive, 2020](https://github.com/manjunath5496/ML-Papers/blob/main/Improving%20Recommendation%20Quality%20in%20Google%20Drive.pdf)
+* [Initializing Bayesian Hyperparameter Optimization via Meta-Learning, 2015](https://github.com/manjunath5496/ML-Papers/blob/main/Initializing%20Bayesian%20Hyperparameter%20Optimization%20via%20Meta-Learning%20.pdf)
+* [Auto-Sklearn 2.0- The Next Generation, 2020](https://github.com/manjunath5496/ML-Papers/blob/main/Auto-Sklearn%202.0-%20The%20Next%20Generation.pdf)
+* [Optuna- A Next-generation Hyperparameter Optimization Framework, 2019](https://github.com/manjunath5496/ML-Papers/blob/main/Optuna-%20A%20Next-generation%20Hyperparameter%20Optimization%20Framework.pdf)
+* [MLOps: Continuous delivery and automation pipelines in machine learning, 2020](https://github.com/manjunath5496/ML-Papers/blob/main/MLOps:%20Continuous%20delivery%20and%20automation%20pipelines%20in%20machine%20learning.pdf)
+* [COLD- Towards the Next Generation of Pre-Ranking System, 2020](https://github.com/manjunath5496/ML-Papers/blob/main/COLD-%20Towards%20the%20Next%20Generation%20of%20Pre-Ranking%20System.pdf)
+* [Learning to Create Better Ads- Generation and Ranking Approaches for Ad Creative Refinement, 2020](https://github.com/manjunath5496/ML-Papers/blob/main/Learning%20to%20Create%20Better%20Ads-%20Generation%20and%20Ranking%20Approaches%20for%20Ad%20Creative%20Refinement.pdf)
+
 
 
 
